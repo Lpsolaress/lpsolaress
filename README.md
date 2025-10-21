@@ -1,8 +1,8 @@
 Luis Pedro Solares Serrano
 
+Actualmente soy estudiante de ingeniería en Informática, trabajando en proyectos simples y actualmente aprendiendo sobre desarrollo de aplicaciones y ciberseguridad
 
-
-## Lenguajes de programación
+## Mis Lenguajes de Programación
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](#)
