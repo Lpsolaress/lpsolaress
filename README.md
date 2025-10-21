@@ -1,4 +1,6 @@
-# 👋 Hola, soy Luis Pedro Solares
+Luis Pedro Solares Serrano
+
+
 
 ## Lenguajes de programación
 
