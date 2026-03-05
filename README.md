@@ -1,11 +1,76 @@
-# Luis Pedro Solares Serrano
+# <p align="center">👋 Hi, I'm Luis Pedro</p>
 
-Actualmente soy estudiante de ingeniería en Informática, trabajando en proyectos simples y actualmente aprendiendo sobre desarrollo de aplicaciones y ciberseguridad
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I+am+Luis+Pedro;Backend+Developer;Python+%7C+FastAPI+%7C+React;Building+AI+and+API+Systems+🚀">
+</p>
 
-## Mis Lenguajes de Programación
+---
 
-🐍 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)  
-💻 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](#)  
-☕ [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](#)  
-🌐 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)  
-🦅 [![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)](#)  
+## 🚀 About Me
+
+💻 Backend Developer focused on **APIs, automation and AI tools**
+🧠 Passionate about **software development and problem solving**
+⚡ Working with **Python, FastAPI and modern web technologies**
+📍 Based in Spain
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,react,js,ts,nodejs,html,css,git,github,docker,postgres,linux,vscode&perline=7" />
+
+</p>
+
+---
+
+## 📂 My Work
+
+👨‍💻 You can explore all my repositories and projects here:
+
+➡️ **https://github.com/Lpsolaress?tab=repositories**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lpsolaress&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lpsolaress&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lpsolaress&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Lpsolaress/Lpsolaress/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Lpsolaress">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+⭐ From **Luis Pedro**
