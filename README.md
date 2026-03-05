@@ -1,3 +1,5 @@
+# <p align="center">👋 Hi, I'm Luis Pedro</p>
+
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I+am+Luis+Pedro;Backend+Developer;Python+%7C+FastAPI+%7C+React;Building+AI+and+API+Systems+🚀">
 </p>
@@ -15,56 +17,36 @@
 
 ## 🧠 Tech Stack
 
+### Backend
+
 <p align="center">
-
 <a href="https://www.python.org">
-<img src="https://skillicons.dev/icons?i=python"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs&perline=3"/>
 </a>
+</p>
 
-<a href="https://fastapi.tiangolo.com">
-<img src="https://skillicons.dev/icons?i=fastapi"/>
-</a>
+### Frontend
 
-<a href="https://nodejs.org">
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-</a>
-
+<p align="center">
 <a href="https://react.dev">
-<img src="https://skillicons.dev/icons?i=react"/>
+<img src="https://skillicons.dev/icons?i=react,js,ts,html,css&perline=5"/>
 </a>
+</p>
 
-<a href="https://www.typescriptlang.org">
-<img src="https://skillicons.dev/icons?i=ts"/>
-</a>
+### Databases
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://skillicons.dev/icons?i=js"/>
-</a>
-
+<p align="center">
 <a href="https://www.postgresql.org">
-<img src="https://skillicons.dev/icons?i=postgres"/>
+<img src="https://skillicons.dev/icons?i=postgres&perline=1"/>
 </a>
+</p>
 
-<a href="https://www.docker.com">
-<img src="https://skillicons.dev/icons?i=docker"/>
-</a>
+### Dev Tools
 
+<p align="center">
 <a href="https://git-scm.com">
-<img src="https://skillicons.dev/icons?i=git"/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode&perline=5"/>
 </a>
-
-<a href="https://github.com">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://www.linux.org">
-<img src="https://skillicons.dev/icons?i=linux"/>
-</a>
-
-<a href="https://code.visualstudio.com">
-<img src="https://skillicons.dev/icons?i=vscode"/>
-</a>
-
 </p>
 
 ---
