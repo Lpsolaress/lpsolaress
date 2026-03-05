@@ -4,7 +4,7 @@
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
 💻 Backend Developer focused on **APIs, automation and AI tools**
 🧠 Passionate about **software architecture and problem solving**
@@ -13,11 +13,9 @@
 
 ---
 
-# 🧠 Tech Stack
+## 🧠 Tech Stack
 
-## Backend
-
-<p>
+<p align="center">
 
 <a href="https://www.python.org">
 <img src="https://skillicons.dev/icons?i=python"/>
@@ -31,53 +29,21 @@
 <img src="https://skillicons.dev/icons?i=nodejs"/>
 </a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://skillicons.dev/icons?i=js"/>
+<a href="https://react.dev">
+<img src="https://skillicons.dev/icons?i=react"/>
 </a>
 
 <a href="https://www.typescriptlang.org">
 <img src="https://skillicons.dev/icons?i=ts"/>
 </a>
 
-</p>
-
----
-
-## Frontend
-
-<p>
-
-<a href="https://react.dev">
-<img src="https://skillicons.dev/icons?i=react"/>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://skillicons.dev/icons?i=js"/>
 </a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-<img src="https://skillicons.dev/icons?i=html"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-<img src="https://skillicons.dev/icons?i=css"/>
-</a>
-
-</p>
-
----
-
-## Databases
-
-<p>
 
 <a href="https://www.postgresql.org">
 <img src="https://skillicons.dev/icons?i=postgres"/>
 </a>
-
-</p>
-
----
-
-## DevOps & Tools
-
-<p>
 
 <a href="https://www.docker.com">
 <img src="https://skillicons.dev/icons?i=docker"/>
@@ -91,14 +57,6 @@
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-</p>
-
----
-
-## Environment
-
-<p>
-
 <a href="https://www.linux.org">
 <img src="https://skillicons.dev/icons?i=linux"/>
 </a>
@@ -111,7 +69,7 @@
 
 ---
 
-# 📂 My Work
+## 📂 My Work
 
 👨‍💻 Explore all my repositories and projects here:
 
